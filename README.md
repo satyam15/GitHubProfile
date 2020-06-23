@@ -10,5 +10,5 @@ a- npm start
 b- type username of whose profile you want to fetch
 hit search button
 profile avatar alongwith organisation will added in the form of card in page
-![Image](https://github.com/satyam15/GitHubProfile/edit/master/Screenshot(9).png)
+![Image](https://github.com/satyam15/GitHubProfile/blob/master/Screenshot%20(9).png)
 
