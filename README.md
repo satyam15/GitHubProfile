@@ -1,5 +1,5 @@
 # GitHubProfile
-This is react basic project in which have used class componenets of react to fecth profile of github user using user name.
+This is react basic project in which I have used class componenets of react to fecth profile of github user using user name.
 In this project i have used property of react to render on part of page whose state changes.
 I have used api to get user data in form json file.
 
